@@ -3,4 +3,4 @@ This repository includes a few examples of my data analysis techniques on varyin
 
 Each data set is organized into individual branches.  
 
-Additionally, selected academic papers are the "Academic-papers" branch.  
+Additionally, selected academic papers are in the "Academic-papers" branch.  
